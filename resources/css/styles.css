@@ -1,6 +1,13 @@
 body{
     background-color: black;
+    text-align: center;
 }
+
+a{
+    font-size: 18px;
+    color: aquamarine;
+}
+
 
 #top_header{
     font: Veranda;
@@ -10,7 +17,22 @@ body{
     text-align: center;
 }
 
-#top_link{
-    font-size: 18px;
-    color: aquamarine;
+#gray_head{
+    color: gray;
+    font-size: 21px;
+    font: Veranda;
+}
+
+.subheads{
+    font: Veranda;
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#copyright{
+    font: Veranda;
+    color: gray;
+    text-align: right;
+    font-size: 21px;
 }
