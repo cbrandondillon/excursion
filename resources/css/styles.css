@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+#top_header{
+    font: Veranda;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+
+#top_link{
+    font-size: 18px;
+    color: aquamarine;
+}
